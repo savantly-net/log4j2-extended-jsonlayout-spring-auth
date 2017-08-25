@@ -44,7 +44,7 @@ Inside your log4j2 configuration, you can configure the new pattern "ExtendedJso
   "contextMap" : { },
   "threadId" : 1,
   "threadPriority" : 5,
-  "authentication" {username: "testUser"}
+  "authentication" : {username: "testUser"}
 }
 ```  
 
