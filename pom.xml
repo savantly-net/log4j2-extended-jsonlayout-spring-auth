@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.savantly.log4j2</groupId>
 	<artifactId>extended-jsonlayout-spring-auth</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.1.0-SNAPSHOT</version>
 	<name>log4j2-extended-jsonlayout-spring-auth</name>
 	<description>Extended JSONLayout for Log4j2 that includes Spring Authentication details</description>
 	<scm>
