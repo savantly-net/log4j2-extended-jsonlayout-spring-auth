@@ -8,11 +8,11 @@ Extended JSONLayout for Log4j2 that includes Spring Authentication details
 
 ### Include the artifact  
 ```
-		<dependency>
-			<groupId>net.savantly.log4j2</groupId>
-			<artifactId>extended-jsonlayout-spring-auth</artifactId>
-			<version>1.0.0-RELEASE</version>
-		</dependency>
+	<dependency>
+		<groupId>net.savantly.log4j2</groupId>
+		<artifactId>extended-jsonlayout-spring-auth</artifactId>
+		<version>1.0.0-RELEASE</version>
+	</dependency>
 ```
 
 ### Example Usage  
